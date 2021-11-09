@@ -6,4 +6,4 @@ Reiser, Michael B.; Dickinson, Michael H. (2008): "A modular display system for 
 
 More information is available on the [Modular LED Display website](https://reiserlab.github.io/Modular-LED-Display/)
 
-Before June 2020, this was hosted on <https://bitbucket.org/mreiser>.
+Before June 2020, this repository was hosted on <https://bitbucket.org/mreiser>.
